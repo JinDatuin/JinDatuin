@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @JinDatuin
+# 👋 Hi, I’m @JinDatuin
 ```
 👨‍🎓 IT student at Pangasinan State University
 👀 Interested in software development, AI, and tech solutions for real-world problems
